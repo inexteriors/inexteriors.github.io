@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://https:/sitemapx.xml
+Sitemap: https://inexteriors.github.io/sitemapx.xml
